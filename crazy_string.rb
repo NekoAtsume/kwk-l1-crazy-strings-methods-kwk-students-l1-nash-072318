@@ -11,5 +11,6 @@ end
 #two = for equal
 
 puts 5 !=4
-puts 4!=4
-
+puts 4!=42
+puts !true
+556/9
