@@ -10,4 +10,6 @@ end
 #crazy_strings("APPLE","")
 #two = for equal
 
-puts "4"==4
+puts 5 !=4
+puts 4!=4
+
