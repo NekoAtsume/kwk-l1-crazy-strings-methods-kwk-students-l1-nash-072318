@@ -10,4 +10,4 @@ end
 #crazy_strings("APPLE","")
 
 
-puts 56>878
+puts 5==4
