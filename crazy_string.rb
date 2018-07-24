@@ -8,6 +8,6 @@ end
 #crazy_strings("Hello, Friends", "Goodbye, Friends")
 
 #crazy_strings("APPLE","")
+#two = for equal
 
-
-puts 5==4
+puts "4"==4
