@@ -5,9 +5,9 @@ def crazy_strings(stringOne,stringTwo)
   puts stringTwo.gsub("s","z").swapcase
 end
 
-crazy_strings("Hello, Friends", "Goodbye, Friends")
+#crazy_strings("Hello, Friends", "Goodbye, Friends")
 
-crazy_strings("APPLE","")
+#crazy_strings("APPLE","")
 
 
 puts 56>878
