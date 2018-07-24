@@ -13,4 +13,4 @@ end
 puts 5 !=4
 puts 4!=42
 puts !true
-556/9
+puts 556/9 <778> 88
