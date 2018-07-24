@@ -8,3 +8,6 @@ end
 crazy_strings("Hello, Friends", "Goodbye, Friends")
 
 crazy_strings("APPLE","")
+
+
+56>878
