@@ -10,8 +10,7 @@ end
 #crazy_strings("APPLE","")
 #two = for equal
 
-puts 5 !=4
-puts 4!=42
+##puts 4!=42
 puts !true
 puts 556/9 <778> 88
 
